@@ -1,5 +1,5 @@
 # COSC4806
-## First Assignment 1 (2017-09-25)
-### added info.php which Output the information about PHP's config , printMyName-web.php and index.php with basic login form
+## Second version Assignment 2 (2017-10-01).
+### Added report.php, welcome.php, logout.php and updated index.php. Implementation of session variables, as well as it will keep track of the login attempts. if users enter his name and pass correctly it will open page that display his info with dates.
 
 #### Aziz Khalid
