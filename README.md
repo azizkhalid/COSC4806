@@ -1,5 +1,5 @@
-# COSC4806
-## Second version Assignment 2 (2017-10-01).
-### Added report.php, welcome.php, logout.php and updated index.php. Implementation of session variables, as well as it will keep track of the login attempts. if users enter his name and pass correctly it will open page that display his info with dates.
-
-#### Aziz Khalid
+#             COSC4806A - Web Data Management (17F) Assignment 3
+## Third version Assignment 3 (2017-10-09).
+## GitHub account: https://github.com/azizkhalid/COSC4806.git
+### Added: Connection.php, register.php and SQL script. Database is created with all the requirements.
+#### By Aziz Khalid
